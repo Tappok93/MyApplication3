@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#191212</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorCostomToolBar">#006400</color>
+    <color name="colorCostomButton">#008000</color>
+    <color name="colorBack">#BBDACE</color>
+    <color name="colorResultText">#8B0000 </color>
+</resources>

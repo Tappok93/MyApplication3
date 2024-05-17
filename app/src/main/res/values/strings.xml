@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="nameProgramm">«Калькулятор времени»</string>
+    <string name="textButton">Результат</string>
+    <string name="menu_exit">Выход</string>
+    <string name="menu_reset">Сброс</string>
+
+</resources>
